@@ -1,0 +1,691 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\models\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\models\\appointmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\models\\entites\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\models\\entites\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\models\\entites\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\models\\entites\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\models\\entites\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\models\\entites\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\repo\\implemintation\\impelementationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\repo\\implemintation\\impelementationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\repo\\repo\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\repo\\repo\\iappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\appointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\appointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\appointment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\repo\\implemintation\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\repo\\implemintation\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\patient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\repo\\implemintation\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\repo\\implemintation\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\repo\\repo\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\repo\\repo\\ipatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\patient\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\patient\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\repo\\repo\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\repo\\repo\\idoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/try/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\doctor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\doctor\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\doctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\patient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\migrations\\20241225092600_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\migrations\\20241225092600_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\doctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\doctor\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\views\\doctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/try/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\webpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\webpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/try/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\migrations\\20241225100440_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\migrations\\20241225100440_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\migrations\\20241225100639_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\migrations\\20241225100639_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|c:\\users\\mahmoud.taher\\source\\repos\\webpractice\\webpractice\\migrations\\20241225100440_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DA9B96B-18DD-418C-813F-3DDDADE9E81A}|WebPractice\\WebPractice.csproj|solutionrelative:webpractice\\migrations\\20241225100440_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "WebPractice\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwFkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:39:45.91Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\repo\\IAppointment.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Repo\\repo\\IAppointment.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\repo\\IAppointment.cs",
+              "RelativeToolTip": "WebPractice\\Repo\\repo\\IAppointment.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:34:45.125Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImpelementationRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\Implemintation\\ImpelementationRepo.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Repo\\Implemintation\\ImpelementationRepo.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\Implemintation\\ImpelementationRepo.cs",
+              "RelativeToolTip": "WebPractice\\Repo\\Implemintation\\ImpelementationRepo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:36:13.095Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\AppointmentViewModel.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Models\\AppointmentViewModel.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\AppointmentViewModel.cs",
+              "RelativeToolTip": "WebPractice\\Models\\AppointmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:20:02.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\Entites\\Appointment.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Models\\Entites\\Appointment.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\Entites\\Appointment.cs",
+              "RelativeToolTip": "WebPractice\\Models\\Entites\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:55:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\Entites\\Doctor.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Models\\Entites\\Doctor.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\Entites\\Doctor.cs",
+              "RelativeToolTip": "WebPractice\\Models\\Entites\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:55:22.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwCgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:47:54.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\Entites\\Patient.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Models\\Entites\\Patient.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\Entites\\Patient.cs",
+              "RelativeToolTip": "WebPractice\\Models\\Entites\\Patient.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:55:33.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "WebPractice\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:09:22.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:54:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Appointment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Edit.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Appointment\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:30:43.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Appointment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Details.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Appointment\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T07:47:49.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Appointment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Appointment\\Delete.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Appointment\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T08:05:20.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\Implemintation\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Repo\\Implemintation\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\Implemintation\\DoctorRepo.cs",
+              "RelativeToolTip": "WebPractice\\Repo\\Implemintation\\DoctorRepo.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAxwCgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:34:56.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "WebPractice\\Controllers\\PatientController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T12:42:08.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:48:29.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Program.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Program.cs",
+              "RelativeToolTip": "WebPractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:23:11.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Patient\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\Edit.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Patient\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:18:41.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPatient.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\repo\\IPatient.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Repo\\repo\\IPatient.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\repo\\IPatient.cs",
+              "RelativeToolTip": "WebPractice\\Repo\\repo\\IPatient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:34:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\Implemintation\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Repo\\Implemintation\\PatientRepo.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\Implemintation\\PatientRepo.cs",
+              "RelativeToolTip": "WebPractice\\Repo\\Implemintation\\PatientRepo.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:35:48.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "WebPractice\\appsettings.json",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\appsettings.json",
+              "RelativeToolTip": "WebPractice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T09:21:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Patient\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\GetAll.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Patient\\GetAll.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T06:05:30.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\repo\\IDoctor.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Repo\\repo\\IDoctor.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Repo\\repo\\IDoctor.cs",
+              "RelativeToolTip": "WebPractice\\Repo\\repo\\IDoctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:33:51.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/try/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-25T10:29:21.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "WebPractice\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T11:13:04.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebPractice\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:35:13.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Doctor\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\GetAll.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Doctor\\GetAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:44:06.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Doctor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Delete.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Doctor\\Delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:59:57.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T13:08:19.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Patient\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\Details.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Patient\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:49:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Patient\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Patient\\Delete.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Patient\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:48:26.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241225092600_first.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225092600_first.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Migrations\\20241225092600_first.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225092600_first.cs",
+              "RelativeToolTip": "WebPractice\\Migrations\\20241225092600_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:26:01.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Doctor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Details.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Doctor\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:50:40.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Doctor\\Update.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Update.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Doctor\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:45:28.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebPractice\\Views\\Doctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Views\\Doctor\\Create.cshtml",
+              "RelativeToolTip": "WebPractice\\Views\\Doctor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T11:44:47.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebPractice\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:42:20.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.Appointments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/try/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "dbo.Appointments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-25T10:29:53.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WebPractice.csproj",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\WebPractice.csproj",
+              "RelativeDocumentMoniker": "WebPractice\\WebPractice.csproj",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\WebPractice.csproj",
+              "RelativeToolTip": "WebPractice\\WebPractice.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T10:25:58.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.Doctors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/SIS_SE_MTAHER_SQLEXPRESS/try/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "dbo.Doctors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-25T10:20:02.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241225100440_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225100440_init.Designer.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Migrations\\20241225100440_init.Designer.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225100440_init.Designer.cs",
+              "RelativeToolTip": "WebPractice\\Migrations\\20241225100440_init.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:18:11.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241225100639_init2.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225100639_init2.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Migrations\\20241225100639_init2.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225100639_init2.cs",
+              "RelativeToolTip": "WebPractice\\Migrations\\20241225100639_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:06:40.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241225100440_init.cs",
+              "DocumentMoniker": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225100440_init.cs",
+              "RelativeDocumentMoniker": "WebPractice\\Migrations\\20241225100440_init.cs",
+              "ToolTip": "C:\\Users\\mahmoud.taher\\source\\repos\\WebPractice\\WebPractice\\Migrations\\20241225100440_init.cs",
+              "RelativeToolTip": "WebPractice\\Migrations\\20241225100440_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:04:41.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
